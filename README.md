@@ -5,13 +5,14 @@
 ----------------------------
 
 #### LEGEND (Status):
-
-|      | Definition | Notes                                                        |
+<div style="width: 90%;">
+  |      | Definition | Notes                                                        |
 |:----:|:---------- | ------------------------------------------------------------ |
 | [✅]  | Verified   | was installed and quick test verification ONLY               |
 | [☑]  | Installed  | was installed but have not ran to see if any conflicts arise |
 | [❎]  | Conflict   | was installed and failed on the quick test                   |
 | [🟩] | Backlog    | Not Yet Installed (But Plan to or is considering)            |
+</div>
 
 #### LEGEND (Type):
 
