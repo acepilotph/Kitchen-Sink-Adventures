@@ -1,7 +1,6 @@
 ----------------------------
 
 # MINECRAFT MODPACK BACKLOG (1.21.1 NeoForge)
-<style> table { width: 100%; table-layout: fixed; } </style>
 ----------------------------
 
 #### LEGEND (Status):
