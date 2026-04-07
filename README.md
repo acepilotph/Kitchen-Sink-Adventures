@@ -1,16 +1,12 @@
----
-
 # Kitchen Sink Adventures
 
 **Minecraft:**  1.21.1
 
-**Mod Loader:** NeoForge
+**Mod Loader** NeoForge
 
-**Launcher:**   [Modrinth](https://modrinth.com/)
+**Launcher**   [Modrinth](https://modrinth.com/)
 
 *This is a readme.md file showing current progress of the modpack (what ever the title above is) in order to keep track of progress and issues that are to arise if updates occur or mods are added/removed*
-
----
 
 ---
 
@@ -44,8 +40,6 @@
 | **Secondary** | This is the list of mods that add onto the primary mod or are of lower priority. <br/><br/>*these are usually addon mods in a bigger or main mod or are mods that often do add a lot but are not of bigger importance compared to the mods in the primary* |
 | **Tertiary** | This is the list of mods that mainly focus on the asthetic side of the mods. <br/><br/>*These are mods that focus on mainly UI changes, animations, etc. It focuses on the overal look rather than adding actual mechanics or gameplay* |
 | **Others** | This is the list of mods that do not fit the above categories. <br/><br/>*Uncertain of it's actual categorization. Unsorted. The "Others" pile.* |
-
----
 
 ---
 
