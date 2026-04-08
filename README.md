@@ -2,9 +2,9 @@
 
 **Minecraft:**  1.21.1
 
-**Mod Loader** NeoForge
+**Mod Loader:** NeoForge
 
-**Launcher**   [Modrinth](https://modrinth.com/)
+**Launcher:**   [Modrinth](https://modrinth.com/)
 
 *This is a readme.md file showing current progress of the modpack (what ever the title above is) in order to keep track of progress and issues that are to arise if updates occur or mods are added/removed*
 
@@ -47,18 +47,43 @@
 
 ### BACKEND
 
-|     |     | Mod | Version | Source/s | Notes |
-| --- | --- | --- | --- | --- | --- |
-| 🟩  | 🟢  | BadOptimizations |     |     |     |
-| 🟩  | 🟢  | Chunky |     |     |     |
-| 🟩  | 🟢  | Concurrent Chunk Management Engine (NeoForge) |     |     |     |
-| 🟩  |     |     |     |     |     |
+|     |     | Mod | Ver. | Sources | Dependents | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| 🟪  | 🟡  | Accessories Compatibility Layer<br/>**By** [Blodhgarm](https://modrinth.com/user/Blodhgarm) |     | [Modrinth](https://modrinth.com/mod/accessories-compat-layer) |     | Compatability Layer |
+| 🟪  | 🟢🟣 | Apothic Attributes |     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes) | • Apotheosis | Library Mod |
+| 🟩  | 🟢  | BadOptimizations<br/>**By** [thosea](https://modrinth.com/user/thoseahttps://modrinth.com/user/thosea) |     | [Modrinth](https://modrinth.com/mod/badoptimizations) |     |     |
+| 🟪  | 🟢🟣 | Bookshelf |     | [Modrinth](https://modrinth.com/mod/bookshelf-lib) | • Dark Utilities | Library Mod |
+| 🟩  | 🟢  | Chunky<br/>**By** [pop4959](https://modrinth.com/user/pop4959) |     | [Modrinth](https://modrinth.com/plugin/chunky) |     |     |
+| 🟩  | 🟢  | Concurrent Chunk Management Engine (NeoForge)<br/>**By** [ishland](https://modrinth.com/user/ishland) |     | [Modrinth](https://modrinth.com/mod/c2me-neoforge) |     |     |
+| 🟩  | 🟢🟣 | Embeddium<br/>**By** [FiniteReality](https://modrinth.com/user/FiniteReality) |     | [Modrinth](https://modrinth.com/mod/embeddium) | • Embeddium (Rubidium) Extra |     |
+| 🟩  | 🟢  | Entity Culling<br/>**By** [tr7zw](https://modrinth.com/user/tr7zw) |     | [Modrinth](https://modrinth.com/mod/entityculling) |     |     |
+| 🟩  | 🟢  | FerriteCore<br/>**By** [malte0811](https://modrinth.com/user/malte0811) |     | [Modrinth](https://modrinth.com/mod/ferrite-core) |     |     |
+| 🟩  | 🟢🟣 | Forgified Fabric API<br/>**By** [Sinytra](https://modrinth.com/organization/sinytra) |     | [Modrinth](https://modrinth.com/mod/forgified-fabric-api) | • Spell Engine | Additional Requirement on Neoforge <br/><br/>*Forge x Fabric Interoperability Library* <br/>*Independent but useless alone* |
+| 🟩  | 🟢  | ImmediatelyFast<br/>**By** [RaphiMC](https://modrinth.com/user/RaphiMC) |     | [Modrinth](https://modrinth.com/mod/immediatelyfast) |     |     |
+| 🟩  | 🟢  | KryptonFoxified<br/>**By** [TexTrue](https://modrinth.com/user/TexTrue) |     | [Modrinth](https://modrinth.com/mod/krypton-foxified) |     |     |
+| 🟨  | 🟡  | Leaves Be Gone<br/>**By** [Fuzs](https://modrinth.com/user/Fuzs) |     | [Modrinth](https://modrinth.com/mod/leaves-be-gone) |     | Quick Leaves Decay For Less Computing Power<br/><br/>*Open to use other alternatives* |
+| 🟩  | 🟢  | Lithium<br/>**By** [CaffeineMC](https://modrinth.com/organization/caffeinemc) |     | [Modrinth](https://modrinth.com/mod/lithium) |     | Added to replace Radium |
+| 🟪  | 🟢🟣 | Placebo |     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo) | • Apotheosis | Library Mod |
+| 🟪  | 🟢🟣 | Puzzles Lib |     | [Modrinth](https://modrinth.com/mod/puzzles-lib) | • Visual Workbench<br/>• Cut Through<br/>• Mutant Monsters<br/>• Diagonal Windows<br/>• Diagonal Fences<br/>• Leaves Be Gone<br/>• Trading Post<br/>• Magnum Torch<br/>• Bartering Station<br/>• Diagonal Walls | Library Mod |
+| 🟥  | 🟢  | Radium<br/>**By** [Asek3](https://modrinth.com/user/Asek3) |     | [Modrinth](https://modrinth.com/mod/radium) |     | Incompatible:<br/>Create<br/><br/>*Error Log recommened to switch to back to Lithium* |
+| 🟩  | 🟢🟣 | Sophisticated Core<br/>**By** [P3pp3rF1y](https://modrinth.com/user/P3pp3rF1y) |     | [Modrinth](https://modrinth.com/mod/sophisticated-core) | • Sophisticated Backpack<br/>• Sophisticated Storage | Library Mod |
+| 🟪  | 🟡🟣 | Spell Engine |     | [Modrinth](https://modrinth.com/mod/spell-engine) | • Archers (RPG Series)<br/>• Gazebos (RPG Series)<br/> • Paladins & Priests (RPG Series)<br/>• Rogues & Wariors (RPG Series)<br/>• Wizards (RPG Series) | Library Mod |
 
 ### PRIMARY
 
-|     | Mod | Version | Source/s | Notes |
-| --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+|     |     | Mod | Version | Source/s | Dependents | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| 🟪  | 🟡  | Apotheosis |     | [Curse](https://www.curseforge.com/minecraft/mc-mods/apotheosis) |     |     |
+| 🟪  | 🟢  | Applied Energistics 2 |     | [Modrinth](https://modrinth.com/mod/ae2) |     |     |
+| 🟩  | 🟢  | Create<br/>**By** [simibubi](https://modrinth.com/user/simibubi) |     | [Modrinth](https://modrinth.com/mod/create) | • Create Crafts & Additions<br/>• Create: Let The Adventure Begin<br/>• Steam 'n' Rails Neoforge<br/>• Create: Enchantment Industry |     |
+| 🟩  | 🟢  | EMI<br/>**By** [Emi](https://modrinth.com/user/Emi) |     | [Modrinth](https://modrinth.com/mod/emi) |     |     |
+| 🟩  | 🟢  | Just Enough Items (JEI)<br/>**By** [mezz](https://modrinth.com/user/mezz) |     | [Modrinth](https://modrinth.com/mod/jei) |     |     |
+| 🟪  | 🟢  | Lootr |     | [Modrinth](https://modrinth.com/mod/lootr) |     |     |
+| 🟪  | 🟤  | ProjectE |     | [Curse](https://www.curseforge.com/minecraft/mc-mods/projecte) |     |     |
+| 🟩  | 🟡  | Sophisticated Backpack<br/>**By** [P3pp3rF1y](https://modrinth.com/user/P3pp3rF1y) |     | [Modrinth](https://modrinth.com/mod/sophisticated-backpacks) |     |     |
+| 🟩  | 🟡  | Sophisticated Storage<br/>**By** [P3pp3rF1y](https://modrinth.com/user/P3pp3rF1y) |     | [Modrinth](https://modrinth.com/mod/sophisticated-storage) |     |     |
+| 🟩  | 🟢  | Tom's Simple Storage Mod<br/>**By** [Tom5454](https://modrinth.com/user/tom5454) |     | [Modrinth](https://modrinth.com/mod/toms-storage) |     |     |
+| 🟩  | 🟢  | Tom's Trading Network<br/>**By** [Tom5454](https://modrinth.com/user/tom5454) |     | [Modrinth](https://modrinth.com/mod/toms-trading-network) |     |     |
 
 ### SECONDARY
 
